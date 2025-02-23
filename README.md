@@ -1,8 +1,11 @@
-# React + Vite
+# Movie rating and search
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my first real project with vite and i guess i did pretty great, maybe i optimalize the search because now when you enter a letter its ask for response and that not really great :D but i made this at night.
 
-Currently, two official plugins are available:
+also if you want to run it you need a .env.local file like this:
+  VITE_TMDB_API_KEY="The movie DB API key"
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Then you need to run in terminal:
+npm i
+
+Hope you have fun with it and make it greater the i could.
