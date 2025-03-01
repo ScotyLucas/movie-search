@@ -9,4 +9,7 @@ also if you want to run it you need a .env.local file like this:
 Then you need to run in terminal:
 npm i
 
-Hope you have fun with it and make it greater the i could.
+Hope you have fun with it and make it greater then i could.
+
+## Dev 2 
+I added streaming platform where can you watch it
